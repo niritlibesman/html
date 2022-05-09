@@ -2,6 +2,9 @@
 p {font-family: Segoe UI; font-size :120%}
 p {font-weight: bold;width: 1000}
 
+
+
+
 body {
 background-image: url(teal-370129_960_720.png);
   color: black
@@ -23,5 +26,7 @@ p2 {font-family: Segoe UI; font-size :180%}
 p2 {font-weight: bold;}
 
 
-
+p3 {width: 1000; font-family: Calibri; font-size :120%}
+p3 {font-weight: bold;}
+	.
 	.
